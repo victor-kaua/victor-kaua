@@ -12,7 +12,7 @@ Oi, me chamo **Victor Kauã**.👋😄
 
 - 👨🏻‍💻Adoro Programação
 
-- Sempre busco me aperfeiçoar. 🦾 
+- Sempre buscando aperfeiçoar minhas habilidades na área de T.I. 🦾 
 
 ## GitHub Stats ⚙️
 <div align="left">
