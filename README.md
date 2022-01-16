@@ -1,4 +1,4 @@
-# Olá! Seja Bem-vindos ao meu GitHub! 
+# Olá! Sejam Bem-vindos ao meu GitHub! 
 
 Oi, me chamo **Victor Kauã**.👋😄
 
