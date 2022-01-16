@@ -1,11 +1,10 @@
 # Olá! Seja Bem-vindos ao meu GitHub! 
 
-Oi, me chamo **Victor Kauã**.
+Oi, me chamo **Victor Kauã**.👋😄
 
-## Contact Me 📲📧
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kauã-16877420a/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorkauamartinsnun@gmail.com) [![Dio](https://img.shields.io/badge/-DigitalInnovationOne-grey?logo=https://hermes.digitalinnovation.one/assets/diome/logo.svg&logoColor=white&style=flat)](https://web.dio.me/users/victorkauamartinsnun?tab=achievements)
 
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right">
 
 - 🌍Sou Brasileiro 🇧🇷.
 
