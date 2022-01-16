@@ -27,5 +27,7 @@ Oi, me chamo **Victor Kauã**.👋😄
 - Python (Intermediário)
 - PHP (Básico)
 - PostgreSQL (Básico)
-- Manipulação de Banco de dados
-- Linux 
+- Linux
+- JavaScript (Básico)
+- C++ (Básico)
+- C# (Básico)
