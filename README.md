@@ -6,7 +6,7 @@ Oi, me chamo **Victor Kauã**.👋😄
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right">
 
-- 🌍Sou Brasileiro 🇧🇷.
+- Brasileiro🌍.
 
 - 📚💻Estudante de T.I (técnico em informática) no CEFET/RJ,atualmente cursando o 2º Ano do Ensino Médio.
 
