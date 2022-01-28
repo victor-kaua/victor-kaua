@@ -7,14 +7,13 @@ Oi, me chamo **Victor Kauã**.👋😄
 [![Dio](https://img.shields.io/badge/-DigitalInnovationOne-grey?logo=https://hermes.digitalinnovation.one/assets/diome/logo.svg&logoColor=white&style=flat)](https://web.dio.me/users/victorkauamartinsnun?tab=achievements)
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right">
+<ul>
+  <li> Brasileiro🌍.</li>
+  <li> 📚💻Estudante de T.I (técnico em informática) no CEFET/RJ,atualmente cursando o 2º Ano do Ensino Médio. </li>
+  <li> 👨🏻‍💻Adoro Programação </li>
+  <li> Sempre buscando aperfeiçoar minhas habilidades na área de T.I. 🦾 </li>
+</ul>![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667](https://user-images.githubusercontent.com/89159122/151484459-d653577f-64c7-4c8d-8a01-b16b67c4cb99.svg)
 
-- Brasileiro🌍.
-
-- 📚💻Estudante de T.I (técnico em informática) no CEFET/RJ,atualmente cursando o 2º Ano do Ensino Médio.
-
-- 👨🏻‍💻Adoro Programação
-
-- Sempre buscando aperfeiçoar minhas habilidades na área de T.I. 🦾 
 
 ## GitHub Stats ⚙️
 <div align="left">
@@ -43,14 +42,18 @@ Oi, me chamo **Victor Kauã**.👋😄
   <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> C++
   <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> C#
   
+  ### 
+    
   </h4>
 </div> 
 
-## Aprendendo Atualmente/Aperfeiçoando 📚 
-- Python (Intermediário)
-- PostgreSQL (Intermediário)
-- PHP (Básico)
-- Linux (Básico)
-- JavaScript (Básico)
-- C++ (Básico)
-- C# (Básico)
+## Aprendendo Atualmente/Aperfeiçoando 📚
+<ul>
+  <li> Python (Intermediário) </li>
+  <li> PostgreSQL (Intermediário) </li>
+  <li> PHP (Básico) </li>
+  <li> Linux (Básico) </li>
+  <li> JavaScript (Básico) </li>
+  <li> C++ (Básico) </li>
+  <li> C# (Básico) </li> 
+</ul>
