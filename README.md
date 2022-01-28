@@ -6,7 +6,7 @@ Oi, me chamo **Victor Kauã**.👋😄
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorkauamartinsnun@gmail.com) 
 [![Dio](https://img.shields.io/badge/-DigitalInnovationOne-grey?logo=https://hermes.digitalinnovation.one/assets/diome/logo.svg&logoColor=white&style=flat)](https://web.dio.me/users/victorkauamartinsnun?tab=achievements)
 
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="center">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right">
 <ul>
   <li> Brasileiro🌍.</li>
   <li> 📚💻Estudante de T.I (técnico em informática) no CEFET/RJ,atualmente cursando o 2º Ano do Ensino Médio. </li>
