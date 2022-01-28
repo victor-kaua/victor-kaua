@@ -2,7 +2,7 @@
 
 Oi, me chamo **Victor Kauã**.👋😄
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kauã-16877420a/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kauã-martins-16877420a/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorkauamartinsnun@gmail.com) 
 [![Dio](https://img.shields.io/badge/-DigitalInnovationOne-grey?logo=https://hermes.digitalinnovation.one/assets/diome/logo.svg&logoColor=white&style=flat)](https://web.dio.me/users/victorkauamartinsnun?tab=achievements)
 
@@ -12,7 +12,7 @@ Oi, me chamo **Victor Kauã**.👋😄
   <li> 📚💻Estudante de T.I (técnico em informática) no CEFET/RJ,atualmente cursando o 2º Ano do Ensino Médio. </li>
   <li> 👨🏻‍💻Adoro Programação </li>
   <li> Sempre buscando aperfeiçoar minhas habilidades na área de T.I. 🦾 </li>
-</ul>![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667](https://user-images.githubusercontent.com/89159122/151484459-d653577f-64c7-4c8d-8a01-b16b67c4cb99.svg)
+</ul>
 
 
 ## GitHub Stats ⚙️
