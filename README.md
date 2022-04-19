@@ -1,6 +1,4 @@
-# Olá! Me chamo **Victor Kauã**, Sejam Bem-vindos ao meu GitHub! 👋😄 
-
-
+# Olá! Me chamo **Victor Kauã**, Sejam Bem-vindos ao meu GitHub! 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kauã-martins-16877420a/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorkauamartinsnun@gmail.com) 
