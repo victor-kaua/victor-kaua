@@ -3,7 +3,7 @@
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right">
 <ul>
   <li> Brasileiro🌍.</li>
-  <li> 📚💻Estudante de T.I no CEFET/RJ(técnico em informática), atualmente cursando o 3º Ano do Ensino Médio. </li>
+  <li> Estudante de T.I no CEFET/RJ(técnico em informática), atualmente cursando o 3º Ano do Ensino Médio.📚💻 </li>
   <li> Fascinado em Programação 👨🏻‍💻 </li>
   <li> Sempre buscando aperfeiçoar minhas habilidades na área de T.I. 🦾 </li>
 </ul>
