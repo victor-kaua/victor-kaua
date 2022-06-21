@@ -19,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kaua&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## Ferramentas/Linguagens que já utilizei 🖥️
+## Skills 🖥️
 <div>
  
   ### Intermediário
@@ -30,15 +30,18 @@
   <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
   <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> C++
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> PostgreSQL
+  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux
   
   </h4>
   
   ### Básico
   <h4>
+  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java 
   <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Javascript
-  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> Bootstrap
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux
   <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> C#
+  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C
+ 
+
   
   ### 
     
@@ -48,12 +51,9 @@
 ## Aprendendo Atualmente/Aperfeiçoando 📚
 <ul>
   <li> Python (Intermediário) </li>
-  <li> PostgreSQL (Intermediário) </li>
-  <li> PHP (Intermediário) </li>
-  <li> C++ (Intermediário) </li>
-  <li> Linux (Básico) </li>
+  <li> C (Intermediário) </li>
+  <li> Linux (Intermediário) </li>
   <li> JavaScript (Básico) </li>
-  <li> C# (Básico) </li>
   <li> Java (Básico) </li>
 </ul>
 
