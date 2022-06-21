@@ -20,32 +20,7 @@
 </div>
 
 ## Skills 🖥️
-<div>
-  ### Intermediário
-  <h4>
-  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python 
-  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML
-  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> C++
-  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> PostgreSQL
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux
-  
-  </h4>
-  
-  ### Básico
-  <h4>
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java 
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Javascript
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> C#
-  <img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C
- 
-
-  
-  ### 
-    
-  </h4>
-</div> 
+  [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cs,cpp,java,javascript,postgres)](https://skillicons.dev)
 
 ## Aprendendo Atualmente/Aperfeiçoando 📚
 <ul>
@@ -56,4 +31,3 @@
   <li> Java (Básico) </li>
 </ul>
 
-  
