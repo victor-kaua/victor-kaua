@@ -2,10 +2,10 @@
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right">
 <ul>
-  <li> Brasileiro🌍.</li>
-  <li> Estudante de T.I no CEFET/RJ(técnico em informática), atualmente cursando o 3º Ano do Ensino Médio.📚💻 </li>
-  <li> Fascinado em Programação 👨🏻‍💻 </li>
-  <li> Sempre buscando aperfeiçoar minhas habilidades na área de T.I. 🦾 </li>
+  <li> Brazilian🌍.</li>
+  <li> Computer Science student at CEFET/RJ(computer technician), currently in 3rd Year of High School.📚💻 </li>
+  <li> Programming Fascinated 👨🏻‍💻 </li>
+  <li> I am always looking to improve my computer skills. 🦾 </li>
 </ul>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kauã-martins-16877420a/) 
@@ -22,12 +22,12 @@
 ## Skills 🖥️
   [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cs,cpp,java,javascript,postgres)](https://skillicons.dev)
 
-## Aprendendo Atualmente/Aperfeiçoando 📚
+## Currently Learning/Improving 📚
 <ul>
-  <li> Python (Intermediário) </li>
-  <li> C (Intermediário) </li>
-  <li> Linux (Intermediário) </li>
-  <li> JavaScript (Básico) </li>
-  <li> Java (Básico) </li>
+  <li> Python (Intermediate) </li>
+  <li> C (Intermediate) </li>
+  <li> Linux (Intermediate) </li>
+  <li> JavaScript (Basic) </li>
+  <li> Java (Basic) </li>
 </ul>
 
