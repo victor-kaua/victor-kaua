@@ -8,10 +8,9 @@
   <li> I am always looking to improve my computer skills. 🦾 </li>
 </ul>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kauã-martins-16877420a/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorkauamartinsnun@gmail.com) 
-[![Dio](https://img.shields.io/badge/-DigitalInnovationOne-grey?logo=https://hermes.digitalinnovation.one/assets/diome/logo.svg&logoColor=white&style=flat)](https://web.dio.me/users/victorkauamartinsnun?tab=achievements)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=victor-kaua)](https://github.com/victor-kaua)
+  <a href = "mailto:victorkauamartinsnun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/victor-kauã-martins-16877420a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=victor-kaua)](https://github.com/victor-kaua)
 
 ## GitHub Stats ⚙️
 <div align="left">
@@ -31,3 +30,4 @@
   <li> Java (Basic) </li>
 </ul>
 
+![Snake animation](https://github.com/victor-kaua/victor-kaua/blob/output/github-contribution-grid-snake.svg)
