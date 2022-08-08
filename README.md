@@ -29,5 +29,4 @@
   <li> JavaScript (Basic) </li>
   <li> Java (Basic) </li>
 </ul>
-
 ![Snake animation](https://github.com/victor-kaua/victor-kaua/blob/output/github-contribution-grid-snake.svg)
