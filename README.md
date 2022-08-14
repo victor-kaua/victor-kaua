@@ -10,7 +10,7 @@
 
   <a href = "mailto:victorkauamartinsnun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/victor-kauã-martins-16877420a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=victor-kaua)](https://github.com/victor-kaua)
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=victor-kaua&left_color=black&right_color=lightgray)](https://github.com/victor-kaua)
 
 ## GitHub Stats ⚙️
 <div align="left">
