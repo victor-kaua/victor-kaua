@@ -26,6 +26,7 @@
   <li> Python (Intermediate) </li>
   <li> C (Intermediate) </li>
   <li> Linux (Intermediate) </li>
+  <li> Java (Intermediate) </li>
   <li> JavaScript (Basic) </li>
-  <li> Java (Basic) </li>
+  
 </ul>
