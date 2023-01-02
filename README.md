@@ -20,12 +20,7 @@
 </div>
 
 ## Skills 🖥️
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,php,javascript,css,html,postgres,mysql,linux,arduino" />
-  </a>
-</p>
-  [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,php,javascript,css,html,postgres,mysql,linux,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,php,javascript,css,html,postgres,mysql,linux,arduino)](https://skillicons.dev)
 
 ## Currently Learning/Improving 📚
 <ul>
