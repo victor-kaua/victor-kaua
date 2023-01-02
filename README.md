@@ -1,11 +1,11 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+Me+chamo+Victor+Kauã,++sejam+bem-vindos!👋;Hello!+My+name+is+Victor+Kauã,++welcome!👋&size=16&color=159fad&duration=7500&font=consolas)](https://git.io/typing-svg) <br>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+Me+chamo+Victor+Kauã,++sejam+bem-vindos!👋;Hello!+My+name+is+Victor+Kauã,++welcome!👋&size=18&color=169fad&duration=7600&font=consolas)](https://git.io/typing-svg) <br>
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right">
+<ul>
   <li> Brazilian🌍.</li>
   <li> Computer Science Student📚💻 </li>
   <li> Programming Fascinated 👨🏻‍💻 </li>
   <li> I am always looking to improve my computer skills. 🦾 </li>
-  <br>
 </ul>
 
 <a href = "mailto:victorkauamartinsnun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
