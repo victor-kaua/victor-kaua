@@ -15,8 +15,8 @@
 ## GitHub Stats ⚙️
 <div align="left">
   <a href="https://github.com/victor-kaua">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-kaua&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kaua&layout=compact&langs_count=7&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victor-kaua&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kaua&layout=compact&langs_count=7&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ## Skills 🖥️
