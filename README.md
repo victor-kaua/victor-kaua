@@ -3,8 +3,9 @@
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right">
 <ul>
-  <li> Brazilian🌍.</li>
+  <li> Brazilian🌍</li>
   <li> Computer Science Student📚💻 </li>
+  <li> Computer Technician at CEFET-RJ 👨‍🎓</li>
   <li> Programming Fascinated 👨🏻‍💻 </li>
   <li> I am always looking to improve my computer skills. 🦾 </li>
 </ul>
