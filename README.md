@@ -23,11 +23,9 @@
 </div>
 
 ## Skills 🖥️
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,php,javascript,css,html,postgres,mysql,linux,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,php,javascript,nodejs,css,html,postgres,mysql,linux,arduino)](https://skillicons.dev)
 
 ## Currently Learning/Improving 📚
 <ul>
   <li> CyberSecurity </li>
-  <li> Linux </li>
-  <li> Java </li>
 </ul>
