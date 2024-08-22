@@ -22,7 +22,7 @@
 </div>
 
 ## Skills 🖥️
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,php,javascript,nodejs,postgres,mysql,linux,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,php,javascript,nodejs,postgres,mysql,linux)](https://skillicons.dev)
 
 ## Currently Learning/Improving 📚
 <ul>
